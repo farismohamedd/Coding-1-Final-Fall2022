@@ -1,0 +1,26 @@
+.body1{
+    background-color: #71BC68
+}
+.body2{
+    background-color: #B6977D
+}
+.body3{
+    background-color: #b13d14
+}
+.contact-page{
+    font-size: 30px;
+}
+p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 900;
+  }
+
+  a{
+    color: #808080;
+  }
+
+  h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+  }
